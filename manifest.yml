@@ -1,5 +1,5 @@
 applications:
 - name: cf-towns
   mem: 256M
-  buildpack: msdotnet
+  buildpack: dotnet
   services:
